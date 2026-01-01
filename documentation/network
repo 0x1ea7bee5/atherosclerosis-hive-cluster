@@ -1,0 +1,19 @@
+Nodes:
+	fatty-streak:
+		note: HEAD NODE
+		ip: 172.69.69.2
+	transitional:	
+		ip: 172.69.69.3
+	atheroma:
+		ip: 172.69.69.4
+	fibro-atheroma:
+		ip: 172.69.69.5
+	endothelial-dysfunction:
+		ip: 172.69.69.1
+	complicated-plaque:
+		ip: 172.69.69.6
+
+Steps:
+	fatty-streak:
+	
+
